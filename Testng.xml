@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestV1">
+	<test name="ApiTests">
+		<classes>
+			<!-- Basic ones -->
+			<class name="com.trax.testCases.TC_AndroidAppium" />
+		</classes>
+	</test>
+</suite>
